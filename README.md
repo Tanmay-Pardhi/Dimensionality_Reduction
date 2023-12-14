@@ -19,7 +19,10 @@
   
 * Open dimensionality_reduction.ipynb and run all the cells of the notebook.
 
-#### Results:
+## Results:
+
+Use this for ipynb preview:
+https://nbviewer.org/github/Tanmay-Pardhi/Dimensionality_Reduction/blob/main/dimensionality_reduction.ipynb
 
 * **Singular Value Decomposition (SVD)**
 
@@ -28,6 +31,9 @@
 !["2D plot SVD"](https://github.com/Tanmay-Pardhi/Dimensionality_Reduction/blob/main/images/SVD_scratch.jpg?raw=True")
 
 3D plot for SVD
+### Note: Github ipynb viewer does not support plotly graphs(interactive graphs)
+### Use this link for notebook preview:
+https://nbviewer.org/github/Tanmay-Pardhi/Dimensionality_Reduction/blob/main/dimensionality_reduction.ipynb
 
 !["3D plot SVD"](https://github.com/Tanmay-Pardhi/Dimensionality_Reduction/blob/main/images/SVD_3d.jpg?raw=True")
 
